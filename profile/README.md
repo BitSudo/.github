@@ -8,7 +8,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="./assets/logo.jpg" alt="logo" width="200" height="auto" />
+  <img src="https://avatars.githubusercontent.com/u/138037623?s=200&v=4" alt="logo" width="200" height="auto" />
   <h1>sokeio</h1>
   
   <p>
