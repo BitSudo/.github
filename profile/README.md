@@ -12,40 +12,40 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Byte Platform</h1>
   
   <p>
-    An BytePlatform for your projects! 
+    An Sokeio for your projects! 
   </p>
   
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/BytePlatform/.github/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/BytePlatform/.github" alt="contributors" />
+  <a href="https://github.com/Sokeio/.github/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Sokeio/.github" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/BytePlatform/.github" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/Sokeio/.github" alt="last update" />
   </a>
-  <a href="https://github.com/BytePlatform/.github/network/members">
-    <img src="https://img.shields.io/github/forks/BytePlatform/.github" alt="forks" />
+  <a href="https://github.com/Sokeio/.github/network/members">
+    <img src="https://img.shields.io/github/forks/Sokeio/.github" alt="forks" />
   </a>
-  <a href="https://github.com/BytePlatform/.github/stargazers">
-    <img src="https://img.shields.io/github/stars/BytePlatform/.github" alt="stars" />
+  <a href="https://github.com/Sokeio/.github/stargazers">
+    <img src="https://img.shields.io/github/stars/Sokeio/.github" alt="stars" />
   </a>
-  <a href="https://github.com/BytePlatform/.github/issues/">
-    <img src="https://img.shields.io/github/issues/BytePlatform/.github" alt="open issues" />
+  <a href="https://github.com/Sokeio/.github/issues/">
+    <img src="https://img.shields.io/github/issues/Sokeio/.github" alt="open issues" />
   </a>
-  <a href="https://github.com/BytePlatform/.github/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/BytePlatform/.github.svg" alt="license" />
+  <a href="https://github.com/Sokeio/.github/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Sokeio/.github.svg" alt="license" />
   </a>
 </p>
    
 <h4>
     <a href="https://bit-sudo.com">Website ➡️ https://bit-sudo.com</a>
   <span> · </span>
-    <a href="https://github.com/BytePlatform/.github">Documentation</a>
+    <a href="https://github.com/Sokeio/.github">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/BytePlatform/.github/issues/">Report Bug</a>
+    <a href="https://github.com/Sokeio/.github/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/BytePlatform/.github/issues/">Request Feature</a>
+    <a href="https://github.com/Sokeio/.github/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -200,7 +200,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/BytePlatform/.github.git
+  git clone https://github.com/Sokeio/.github.git
 ```
 
 Go to the project directory
@@ -256,8 +256,8 @@ function App() {
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/BytePlatform/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BytePlatform/.github" />
+<a href="https://github.com/Sokeio/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sokeio/.github" />
 </a>
 
 
@@ -269,7 +269,7 @@ See `contributing.md` for ways to get started.
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/BytePlatform/.github/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/Sokeio/.github/blob/master/CODE_OF_CONDUCT.md)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -294,7 +294,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/BytePlatform/.github](https://github.com/BytePlatform/.github)
+Project Link: [https://github.com/Sokeio/.github](https://github.com/Sokeio/.github)
 
 
 <!-- Acknowledgments -->
